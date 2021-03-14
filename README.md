@@ -356,6 +356,5 @@ We have seen that accuracy of DecisionTree / Gradient Boosting is around 96.8% a
 also achieved decent variance score of 88.5% which is very close to 1.
 Therefore, it is inferred that Gradient Boosting is the suitable model for this dataset.
 
-** Thank You Very Much Indeed !!!
 
 
